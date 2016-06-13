@@ -1,6 +1,8 @@
 safe: true
 markdown: kramdown
-highlighter: pygments
+kramdown:
+        input: GFM
+highlighter: null
 permalink: /:title.html
 relative_permalinks: false
 
@@ -18,4 +20,4 @@ author:
 
 fork_url: https://github.com/shower/shower
 progress: true
-line_numbers: true
+line_numbers: false
