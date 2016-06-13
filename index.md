@@ -271,4 +271,8 @@ Content-Type: ...
         - Pas de `Access-Control-Allow-Credentials`
 
 
+## References
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+- https://jtanguy.github.io/cors-intro
 
