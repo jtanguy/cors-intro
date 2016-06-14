@@ -54,7 +54,7 @@ style: |
 
 ## Partager des ressources entre différents domaines
 
-- Médias: images, vidéos, ~~flash~~ ;
+- Médias: images, vidéos, <s>flash</s> ;
 - Styles ;
 - _iframes_ ;
 - ...fonts ;
@@ -271,8 +271,8 @@ Content-Type: ...
         - Pas de `Access-Control-Allow-Credentials`
 
 
-## References
+## Liens
 
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
-- https://jtanguy.github.io/cors-intro
+- [HTTP access control (CORS) - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+- <https://jtanguy.github.io/cors-intro>
 
